@@ -3,8 +3,8 @@ using Images
 
 
 const ASCII_PALETTE = "MWNXK0Okxdolc:;,'...   "
-const CHAR_HEIGHT = 99
-const CHAR_WIDTH = 56
+const CHAR_HEIGHT = 99 # font's height (A.U.)
+const CHAR_WIDTH = 56 # font's width (A.U.)
 
 
 function parse_commandline()
