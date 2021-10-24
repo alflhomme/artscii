@@ -3,8 +3,8 @@ Extremely simple ASCII art generator (from images) written in Julia.
 
 
 ### Dependencies
-This script uses **Images.jl** and the **ImageIO.jl** package which you can
-install through Julia's REPL by typing `]add Images ImageIO`.
+This script uses **ArgParse.jl**, **Images.jl** and the **ImageIO.jl** packages
+which you can install through Julia's REPL by typing `]add Images ImageIO`.
 
 
 ### How to use
