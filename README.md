@@ -14,9 +14,9 @@ which you can install through Julia's REPL by typing
 julia asciigenerator.jl "path_to_img"
 ```
 
-which will generate a HTML file in the directory where the template image is
-located. The resulting ASCII art file will have as many characters as amount of
-pixels the original image has.
+which will generate an HTML file in the directory where the template image is
+located. The resulting ASCII art file will have as many characters as the amount
+of pixels the original image has.
 
 If rescaling is needed (highly recommended), use the optional argument `--width`
 to indicate the desired width in terms of characters of the resulting HTML
